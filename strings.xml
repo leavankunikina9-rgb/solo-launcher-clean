@@ -1,0 +1,3 @@
+<resources>
+    <string name="guard_desc">Solo Guard monitors app foreground events and enforces Focus Gate locks.</string>
+</resources>
